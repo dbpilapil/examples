@@ -22,7 +22,7 @@
             "containers":[
                {
                   "name":"guestbook",
-                  "image":"doms",
+                  "image":"k8s.gcr.io/doms:latest",
                   "ports":[
                      {
                         "name":"http-server",
