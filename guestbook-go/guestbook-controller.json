@@ -22,7 +22,7 @@
             "containers":[
                {
                   "name":"guestbook",
-                  "image":"doms:v3",
+                  "image":"dbpilapil/doms:v1",
                   "ports":[
                      {
                         "name":"http-server",
